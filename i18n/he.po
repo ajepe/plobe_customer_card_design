@@ -1,0 +1,114 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* plobe_customer_card_design
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-02 23:57+0000\n"
+"PO-Revision-Date: 2022-06-03 01:12+0100\n"
+"Last-Translator: ajepe <ajepebabatope@gmail.com>\n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: he\n"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,help:plobe_customer_card_design.field_res_partner__branch
+#: model:ir.model.fields,help:plobe_customer_card_design.field_res_users__branch
+msgid ""
+"According to the users list, default value is the user that created the "
+"customer card"
+msgstr ""
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner__age
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_users__age
+msgid "Age"
+msgstr "גיל"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner__birthday
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_users__birthday
+msgid "Birthday"
+msgstr "תאריךלידה"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner__branch
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_users__branch
+msgid "Branch"
+msgstr "סניף"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields.selection,name:plobe_customer_card_design.selection__res_partner__hmo__clalit
+msgid "Clalit"
+msgstr "כללית"
+
+#. module: plobe_customer_card_design
+#: model:ir.model,name:plobe_customer_card_design.model_res_partner
+msgid "Contact"
+msgstr "איש קשר"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,help:plobe_customer_card_design.field_res_partner__age
+#: model:ir.model.fields,help:plobe_customer_card_design.field_res_users__age
+msgid "Current date- Birthday"
+msgstr "תאריך נוכחי- יום הולדת"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner__display_name
+msgid "Display Name"
+msgstr "הצג שם"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner__hmo
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_users__hmo
+msgid "Health Maintenance Organization"
+msgstr "קופתחולים"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner__id
+msgid "ID"
+msgstr ""
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,field_description:plobe_customer_card_design.field_res_partner____last_update
+msgid "Last Modified on"
+msgstr "מַכַּבִּי"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields.selection,name:plobe_customer_card_design.selection__res_partner__hmo__maccabi
+msgid "Maccabi"
+msgstr "מכבי"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields.selection,name:plobe_customer_card_design.selection__res_partner__hmo__national
+msgid "National"
+msgstr "לאומית"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields.selection,name:plobe_customer_card_design.selection__res_partner__hmo__united
+msgid "United"
+msgstr "מאוחדת"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields.selection,name:plobe_customer_card_design.selection__res_partner__hmo__general
+msgid "General"
+msgstr "כללית"
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields.selection,name:plobe_customer_card_design.selection__res_partner__hmo__private
+msgid "Private"
+msgstr "פְּרָטִי"
+
+
+#. module: plobe_customer_card_design
+#: model:ir.model.fields,help:plobe_customer_card_design.field_res_partner__hmo
+#: model:ir.model.fields,help:plobe_customer_card_design.field_res_users__hmo
+msgid "לאומית,כללית,מכבי,מאוחדתפרטי"
+msgstr "לאומית,כללית,מכבי,מאוחדתפרטי"
+
+
