@@ -32,7 +32,7 @@
                     <field name="age" />
                 </xpath>
                 <xpath expr="//field[@name='category_id']" position="before">
-                    <field name="branch"  options="{'no_create': True}"/>
+                    <field name="branch_id"  options="{'no_create': True}"/>
                     <field name="hmo" />
                 </xpath>
             </field>
